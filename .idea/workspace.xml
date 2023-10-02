@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="quest:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b151faf7-3898-4fd0-bb81-6652db42cff2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66c63b8822cca81ce6df46f68cbd3cf1174fdece" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/66c63b8822cca81ce6df46f68cbd3cf1174fdece" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/controller/IndexServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/controller/JavaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/entity/Quest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/entity/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/JsonQuestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/MessageFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/QuestMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/QuestQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/QuestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/service/QuestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javaquest/javaquest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javaquest/welcome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javaquest/won.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lost.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/question.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/won.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/won.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JsonQuestRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MessageFromFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/QuestQuestionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/QuestServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/questionsTestJson.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Servlet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2VqCJFh0cP3GBBJHtCLhfFiDhmB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vladimir/IdeaProjects/quest/src/main/resources/javaquest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="es.javarush.kapyrin.quest.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladimir\IdeaProjects\quest\src\main\resources\javaquest" />
+      <recent name="C:\Users\Vladimir\IdeaProjects\quest\src\test\resources" />
+      <recent name="C:\Users\Vladimir\IdeaProjects\quest\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladimir\IdeaProjects\quest\src\main\webapp" />
+      <recent name="C:\Users\Vladimir\IdeaProjects\quest\src\main\resources\javaquest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.12">
+    <configuration name="JsonQuestRepositoryTest.testQuestionsListSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonQuestRepositoryTest" />
+      <option name="METHOD_NAME" value="testQuestionsListSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestServiceTest.testCheckAnswerCorrectAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestServiceTest" />
+      <option name="METHOD_NAME" value="testCheckAnswerCorrectAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestServiceTest.testCheckAnswerWrongAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestServiceTest" />
+      <option name="METHOD_NAME" value="testCheckAnswerWrongAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestServiceTest.testQuestServiceReturnCurrenQuestion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestServiceTest" />
+      <option name="METHOD_NAME" value="testQuestServiceReturnCurrenQuestion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestServiceTest.testQuestServiceValidShuffleList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuestServiceTest" />
+      <option name="METHOD_NAME" value="testQuestServiceValidShuffleList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.12" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="quest:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="10ca5fca-164c-4758-b629-c65c0e8f2f7b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51669" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="quest:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JsonQuestRepositoryTest.testQuestionsListSize" />
+      <item itemvalue="JUnit.QuestServiceTest.testCheckAnswerCorrectAnswer" />
+      <item itemvalue="JUnit.QuestServiceTest.testCheckAnswerWrongAnswer" />
+      <item itemvalue="JUnit.QuestServiceTest.testQuestServiceReturnCurrenQuestion" />
+      <item itemvalue="JUnit.QuestServiceTest.testQuestServiceValidShuffleList" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.12" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JsonQuestRepositoryTest.testQuestionsListSize" />
+        <item itemvalue="JUnit.QuestServiceTest.testCheckAnswerWrongAnswer" />
+        <item itemvalue="JUnit.QuestServiceTest.testCheckAnswerCorrectAnswer" />
+        <item itemvalue="JUnit.QuestServiceTest.testQuestServiceValidShuffleList" />
+        <item itemvalue="JUnit.QuestServiceTest.testQuestServiceReturnCurrenQuestion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b151faf7-3898-4fd0-bb81-6652db42cff2" name="Changes" comment="" />
+      <created>1695554151297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695554151297</updated>
+      <workItem from="1695554152303" duration="1458000" />
+      <workItem from="1695555631956" duration="72432000" />
+      <workItem from="1696150626938" duration="34934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/Main.java</url>
+          <line>5</line>
+          <properties class="es.javarush.kapyrin.quest.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/QuestServiceTest.java</url>
+          <line>30</line>
+          <properties class="QuestServiceTest" method="testCheckAnswerCorrectAnswer">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/QuestServiceTest.java</url>
+          <line>44</line>
+          <properties class="QuestServiceTest" method="testQuestServiceReturnCurrenQuestion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuestServiceTest.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
