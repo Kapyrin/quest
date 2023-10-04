@@ -9,50 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b151faf7-3898-4fd0-bb81-6652db42cff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66c63b8822cca81ce6df46f68cbd3cf1174fdece" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/66c63b8822cca81ce6df46f68cbd3cf1174fdece" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/controller/IndexServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/controller/JavaServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/entity/Quest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/entity/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/JsonQuestRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/MessageFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/QuestMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/QuestQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/repository/QuestRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/service/QuestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/javaquest/javaquest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/javaquest/welcome.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/javaquest/won.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lost.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/question.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/won.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/won.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JsonQuestRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MessageFromFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/QuestQuestionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/QuestServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/questionsTestJson.json" afterDir="false" />
+    <list default="true" id="b151faf7-3898-4fd0-bb81-6652db42cff2" name="Changes" comment="es.javarush.kapyrin.quest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/controller/JavaServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/javarush/kapyrin/quest/controller/JavaServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lost.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lost.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/question.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/question.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/won.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/won.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +35,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -96,16 +66,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Vladimir/IdeaProjects/quest/src/main/resources/javaquest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -289,12 +260,26 @@
       <updated>1695554151297</updated>
       <workItem from="1695554152303" duration="1458000" />
       <workItem from="1695555631956" duration="72432000" />
-      <workItem from="1696150626938" duration="34934000" />
+      <workItem from="1696150626938" duration="36862000" />
+      <workItem from="1696363106621" duration="6847000" />
     </task>
+    <task id="LOCAL-00001" summary="es.javarush.kapyrin.quest">
+      <option name="closed" value="true" />
+      <created>1696250106315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696250106315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="es.javarush.kapyrin.quest" />
+    <option name="LAST_COMMIT_MESSAGE" value="es.javarush.kapyrin.quest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -333,5 +318,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

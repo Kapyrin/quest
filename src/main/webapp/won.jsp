@@ -18,7 +18,7 @@
 
   <b> <p>${victoryMessage}</p></b>
 
-      <img src="/won.jpg" alt="Победа" class="img-fluid">
+      <img src="${pageContext.request.contextPath}/won.jpg" alt="Победа" class="img-fluid">
 
 
 </div>

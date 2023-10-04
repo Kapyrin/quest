@@ -12,7 +12,7 @@
 <div class="container">
   <h1>Добро пожаловать в квест!</h1>
   <p>${welcomeMessage}</p>
-  <form action="javaServlet" method="POST">
+  <form action="${pageContext.request.contextPath}/javaServlet" method="POST">
     <div class="form-group">
       <label for="nickname">Введите свой никнейм:</label>
       <input type="text" class="form-control" id="nickname" name="nickname" required>

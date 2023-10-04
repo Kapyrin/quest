@@ -3,5 +3,5 @@ Tomcat 10.1.12
 Java 11
 Application context "/"
 Deploy at the server startup quest:war
-free licence 
-for start open in browser "localhost "
+Free licence 
+For start open in browser "localhost "

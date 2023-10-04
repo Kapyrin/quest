@@ -12,7 +12,7 @@
 <p>&nbsp;&nbsp;&nbsp;Игрок: ${currentPlayer.nickName}</p>
 <p>&nbsp;&nbsp;&nbsp;Количество неправильных попыток: ${incorrectAttempts}</p>
 
-<form action="/javaServlet" method="POST">
+<form action="${pageContext.request.contextPath}/javaServlet" method="POST">
     &nbsp;&nbsp;&nbsp; <input type="hidden" name="retryLastIncorrect" value="true">
     &nbsp;&nbsp;&nbsp; <button type="submit">Попробовать еще раз</button>
 </form>

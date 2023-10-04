@@ -77,7 +77,7 @@ public class JavaServlet extends HttpServlet {
         Player currentPlayer = new Player(playerName, 0, currentSession, false);
         session.setAttribute("currentPlayer", currentPlayer);
 
-        Quest currentQuest = new Quest(JavaServlet.QUEST_NAME,WON_MESSAGE_PATH);
+        Quest currentQuest = new Quest(JavaServlet.QUEST_NAME, WON_MESSAGE_PATH);
         QuestService questService = new QuestService(currentPlayer, currentQuest, QUESTIONS_JSON_PATH);
         session.setAttribute("questService", questService);
 

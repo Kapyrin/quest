@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1>Вопрос</h1>
-<form action="/javaServlet" method="POST">
+<form action="${pageContext.request.contextPath}/javaServlet" method="POST">
     <p>${requestScope.questionText}</p>
     &nbsp;&nbsp;&nbsp;<input type="radio" name="answer" value="${requestScope.answer1}"> ${requestScope.answer1}<br>
     &nbsp;&nbsp;&nbsp;<input type="radio" name="answer" value="${requestScope.answer2}"> ${requestScope.answer2}<br>
